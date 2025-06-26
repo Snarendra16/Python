@@ -1,0 +1,13 @@
+prefix=F:/Courses/Udemy - Complete Data Science,Machine Learning,DL,NLP Bootcamp/CODE/venv/Library
+exec_prefix=F:/Courses/Udemy - Complete Data Science,Machine Learning,DL,NLP Bootcamp/CODE/venv/Library
+libdir=F:/Courses/Udemy - Complete Data Science,Machine Learning,DL,NLP Bootcamp/CODE/venv/Library/lib
+sharedlibdir=F:/Courses/Udemy - Complete Data Science,Machine Learning,DL,NLP Bootcamp/CODE/venv/Library/lib
+includedir=F:/Courses/Udemy - Complete Data Science,Machine Learning,DL,NLP Bootcamp/CODE/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
