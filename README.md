@@ -17,7 +17,7 @@ This repo serves as:
 | Phase       | Topics                             | Status     |
 |-------------|------------------------------------|------------|
 | Phase 1     | Python Core (syntax, OOP, pandas)  | ✅ Done     |
-| Phase 2     | Machine Learning (Sklearn)         | 🔄 Ongoing  |
+| Phase 2     | Machine Learning (Sklearn)         | 🔜 Soon  |
 | Phase 3     | Deep Learning (TensorFlow/Keras)   | 🔜 Next     |
 | Phase 4     | NLP (text, embeddings, transformers) | 🔜 Soon   |
 | Phase 5     | AI Concepts (agents, search, RL)   | 🔜 Coming   |

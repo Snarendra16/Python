@@ -2,5 +2,7 @@
 scikit-learn
 pandas
 numpy
+opencv
 matplotlib
 ipykernel
+# conda create -n myenv python=3.13
