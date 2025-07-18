@@ -5,4 +5,5 @@ numpy
 opencv
 matplotlib
 ipykernel
+seaborn
 # conda create -n myenv python=3.13
