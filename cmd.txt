@@ -1,0 +1,2 @@
+pip install -r requirements.txt
+conda create -n myenv python=3.13

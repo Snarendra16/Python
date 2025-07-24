@@ -1,9 +1,8 @@
-# pip install -r requirements.txt
 ipykernel
 numpy
 pandas
 matplotlib
 seaborn
-opencv
 scikit-learn
-# conda create -n myenv python=3.13
+bs4
+flask
