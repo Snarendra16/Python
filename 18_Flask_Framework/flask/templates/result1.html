@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result</title>
+</head>
+<body>
+    <h2>Result is</h2>
+    <table border="2">
+        {% for key,value in results.items() %}
+        <tr>
+            <td>{{key}}</td>
+        </tr>
+        <tr>
+            <td>{{value}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
