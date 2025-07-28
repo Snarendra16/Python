@@ -10,7 +10,9 @@ def hello():
 def welcome():
     return render_template('index.html')
 
-@app.route("/form", methods=['GET', 'POST'])  # ✅ Fixed this line
+# @app.route("/form", methods=['GET', 'POST']) 
+# @app.route("/form", methods=['GET', 'POST']) 
+@app.route("/form", methods=['GET', 'POST']) 
 def form():
     if request.method == 'POST':
         name = request.form.get("name")
